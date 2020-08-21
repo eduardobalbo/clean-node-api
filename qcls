@@ -1,0 +1,90 @@
+[34mf561213[31m (HEAD -> master) [37mfeat: connect to mongodb before app listen - [36mEduardo Marques Balbo, [32m17 minutes ago
+[34m652a9a4[31m [37mrefactor: connect to mongodb before integration tests - [36mEduardo Marques Balbo, [32m56 minutes ago
+[34mbabf688[31m [37mtest: ensure SignUp route returns an account on sucess - [36mEduardo Marques Balbo, [32m65 minutes ago
+[34m97f2784[31m [37mfeat: ensure SignUp route returns an account on sucess - [36mEduardo Marques Balbo, [32m65 minutes ago
+[34m4c81cec[31m [37mrefactor: group middleware interfaces in a single file - [36mEduardo Marques Balbo, [32m3 hours ago
+[34mbab86bd[31m [37mfeat: ensure request returns json as default content type - [36mEduardo Marques Balbo, [32m3 hours ago
+[34m68199da[31m [37mfeat: ensure cors is enabled - [36mEduardo Marques Balbo, [32m4 hours ago
+[34m920d487[31m [37mfeat: ensure requests parse body as json - [36mEduardo Marques Balbo, [32m4 hours ago
+[34m0dcec7e[31m [37mchore: add express - [36mEduardo Marques Balbo, [32m5 hours ago
+[34m369da39[31m [37mrefactor: move mapping to MongoHelper - [36mEduardo Marques Balbo, [32m5 hours ago
+[34m7f67950[31m [37mrefactor: clear database between tests - [36mEduardo Marques Balbo, [32m5 hours ago
+[34mc25924a[31m [37mrefactor: move sut creation to a factory helper method - [36mEduardo Marques Balbo, [32m5 hours ago
+[34mf9d8f71[31m [37mtest: ensure AccountMongoRepository returns an account on sucess - [36mEduardo Marques Balbo, [32m5 hours ago
+[34m8fe73a5[31m [37mfeat: ensure AccountMongoRepository returns an account on sucess - [36mEduardo Marques Balbo, [32m5 hours ago
+[34m652d4a3[31m [37mrefactor: move mongodb methods to a helper - [36mEduardo Marques Balbo, [32m6 hours ago
+[34m112d816[31m [37mchore: add jest configs for mongodb - [36mEduardo Marques Balbo, [32m7 hours ago
+[34m2a884de[31m [37mtest: ensure BcryptAdapter throws if bcrypt throws - [36mEduardo Marques Balbo, [32m7 hours ago
+[34m652e2de[31m [37mrefactor: move sut creation to a factory helper method - [36mEduardo Marques Balbo, [32m7 hours ago
+[34mb75de06[31m [37mtest: ensure BcryptAdapter returns a hash on sucess - [36mEduardo Marques Balbo, [32m22 hours ago
+[34m49ee3df[31m [37mfeat: ensure BcryptAdapter returns a hash on sucess - [36mEduardo Marques Balbo, [32m22 hours ago
+[34mebdbb51[31m [37mtest: ensure BcryptAdapter calls bcrypt with correct values - [36mEduardo Marques Balbo, [32m22 hours ago
+[34meebc46c[31m [37mfeat: ensure BcryptAdapter calls bcrypt with correct values - [36mEduardo Marques Balbo, [32m22 hours ago
+[34mff41f98[31m [37mtest: ensure DbAddAccount return an account on sucess - [36mEduardo Marques Balbo, [32m23 hours ago
+[34m1a1d238[31m [37mfeat: ensure DbAddAccount return an account on sucess - [36mEduardo Marques Balbo, [32m23 hours ago
+[34m847a181[31m [37mtest: ensure DbAddAccount throws if AddAccountRepository throws - [36mEduardo Marques Balbo, [32m23 hours ago
+[34mf284406[31m [37mtest: ensure DbAddAccount calls AddAccountRepository with correct values - [36mEduardo Marques Balbo, [32m23 hours ago
+[34mfd68df4[31m [37mfeat: ensure DbAddAccount calls AddAccountRepository with correct values - [36mEduardo Marques Balbo, [32m23 hours ago
+[34m8058577[31m [37mrefactor: group all protocols in a single file - [36mEduardo Marques Balbo, [32m24 hours ago
+[34m3c2831f[31m [37mtest: ensure DbAddAccout throws if Encrypter throws - [36mEduardo Marques Balbo, [32m24 hours ago
+[34m579f1bc[31m [37mrefactor: move encrypter creation to a factory helper method - [36mEduardo Marques Balbo, [32m25 hours ago
+[34mfc32c9d[31m [37mrefactor: move sut creation to a factory helper method - [36mEduardo Marques Balbo, [32m25 hours ago
+[34ma05e3f5[31m [37mtest: ensure DbAddAccount calls Encrypter with correct password - [36mEduardo Marques Balbo, [32m25 hours ago
+[34m28bb2fe[31m [37mfeat: ensure DbAddAccount calls Encrypter with correct passwod - [36mEduardo Marques Balbo, [32m25 hours ago
+[34m482c419[31m [37mrefactor: change file name - [36mEduardo Marques Balbo, [32m25 hours ago
+[34m68949e0[31m [37mrefactor: move sut creation to a factory helper method - [36mEduardo Marques Balbo, [32m25 hours ago
+[34m1803c36[31m [37mtest: ensure EmailValidatorAdapter calls validator with correct email - [36mEduardo Marques Balbo, [32m25 hours ago
+[34m9880bd2[31m [37mtest: ensure EmailValidatorAdapter returns true if validator returns true - [36mEduardo Marques Balbo, [32m28 hours ago
+[34m16c4f6c[31m [37mtest: ensure EmailValidatorAdapter returns true if validator returns true - [36mEduardo Marques Balbo, [32m28 hours ago
+[34m49f0770[31m [37mtest: ensure EmailValidatorAdapter returns false if validator returns false - [36mEduardo Marques Balbo, [32m29 hours ago
+[34mf78d711[31m [37mfeat: ensure EmailValidatorAdapter returns false if validator returns false - [36mEduardo Marques Balbo, [32m29 hours ago
+[34m9a9d294[31m [37mfeat: add new rule on .gitignore - [36mEduardo Marques Balbo, [32m29 hours ago
+[34m34df06c[31m [37mchore: add jest configs and scripts - [36mEduardo Marques Balbo, [32m30 hours ago
+[34mf372f7e[31m [37mrefactor: change import - [36mEduardo Marques Balbo, [32m30 hours ago
+[34mb4dedb8[31m [37mrefactor: transform handle to async - [36mEduardo Marques Balbo, [32m30 hours ago
+[34mbdc5822[31m [37mrefactor: move sucess http response to a helper method - [36mEduardo Marques Balbo, [32m31 hours ago
+[34m2b5b586[31m [37mtest: ensure SignUpController returns 200 if valid data is provided - [36mEduardo Marques Balbo, [32m31 hours ago
+[34ma7fa8a7[31m [37mfeat: ensure SignUpController returns 200 if valid data is provided - [36mEduardo Marques Balbo, [32m31 hours ago
+[34mb2399c9[31m [37mtest: ensure SignUp controller returns 500 if AddAccount throws - [36mEduardo Marques Balbo, [32m31 hours ago
+[34m7a0de7e[31m [37mrefactor: move all signup protocols to a single file - [36mEduardo Marques Balbo, [32m31 hours ago
+[34me2ffc95[31m [37mtest: ensure SignUpController calls AddAccount with correct values - [36mEduardo Marques Balbo, [32m2 days ago
+[34m69bd40b[31m [37mfeat: ensure SignUpController calls AddAccount with correct values - [36mEduardo Marques Balbo, [32m2 days ago
+[34mf55fc2d[31m [37mrefactor: remove code duplication - [36mEduardo Marques Balbo, [32m2 days ago
+[34mba6da34[31m [37mtest: ensure SignUpController return 400 if password confirmation fails - [36mEduardo Marques Balbo, [32m2 days ago
+[34m90d5433[31m [37mfeat: ensure SignUpController return 400 if password confirmation fails - [36mEduardo Marques Balbo, [32m2 days ago
+[34m6a6c567[31m [37mrefactor: change mocking strategy - [36mEduardo Marques Balbo, [32m2 days ago
+[34m4636345[31m [37mrefactor: move EmailValidator creation to a factory helper method - [36mEduardo Marques Balbo, [32m2 days ago
+[34m7dab5e4[31m [37mrefactor: move all error protocol imports to a single file - [36mEduardo Marques Balbo, [32m2 days ago
+[34m43b069f[31m [37mrefactor: move all error imports to a single file - [36mEduardo Marques Balbo, [32m2 days ago
+[34m3b0b425[31m [37mrefactor: move server error to a helper method - [36mEduardo Marques Balbo, [32m2 days ago
+[34m12b7208[31m [37mtest: ensure SignUpController returns 500 if EmailValidator throws - [36mEduardo Marques Balbo, [32m2 days ago
+[34mf3c5d85[31m [37mfeat: ensure SignUpController returns 500 if EmailValidator throws - [36mEduardo Marques Balbo, [32m2 days ago
+[34m908ee1c[31m [37mtest: ensure SignUpController calls EmailValidator with correct email - [36mEduardo Marques Balbo, [32m2 days ago
+[34m474c9c5[31m [37mtest: ensure SignUpController returns 400 if an invalid email is provided - [36mEduardo Marques Balbo, [32m2 days ago
+[34maf6e46c[31m [37mfeat: ensure SignUpController returns 400 if an invalid email is provided - [36mEduardo Marques Balbo, [32m2 days ago
+[34mac0e878[31m [37mrefactor: move sut creation to a factory helper method - [36mEduardo Marques Balbo, [32m2 days ago
+[34m9804b96[31m [37mrefactor: make SignUpController conforms to a protocol - [36mEduardo Marques Balbo, [32m2 days ago
+[34m6034b8c[31m [37mtest: ensure SignUpController returns 400 if no passwordConfirmation is provided - [36mEduardo Marques Balbo, [32m2 days ago
+[34m4577c8b[31m [37mfeat: ensure SignUpController returns 400 if no passwordConfirmation is provided - [36mEduardo Marques Balbo, [32m2 days ago
+[34m9b5096d[31m [37mtest: ensure SignUpController returns 400 if no password is provided - [36mEduardo Marques Balbo, [32m2 days ago
+[34m8ac8475[31m [37mfeat: ensure SignUpController returns 400 if no password is provided - [36mEduardo Marques Balbo, [32m2 days ago
+[34m386dae9[31m [37mrefactor: simplify code even more - [36mEduardo Marques Balbo, [32m2 days ago
+[34m55acf1e[31m [37mrefactor: simplify code - [36mEduardo Marques Balbo, [32m2 days ago
+[34m1f680b4[31m [37mrefactor: move duplicated code to a helper method - [36mEduardo Marques Balbo, [32m2 days ago
+[34m4d8151f[31m [37mrefactor: add customized errr for missing param - [36mEduardo Marques Balbo, [32m2 days ago
+[34mefe7f0d[31m [37mrefactor: ensure SignUpController.handle implement correct interfaces - [36mEduardo Marques Balbo, [32m2 days ago
+[34m6814d04[31m [37mtest: ensure SignUpController returns an error 400 if no email is provided - [36mEduardo Marques Balbo, [32m2 days ago
+[34m0c76dd8[31m [37mfeat: ensure SignUpController returns an error 400 if no email is provided - [36mEduardo Marques Balbo, [32m2 days ago
+[34mdcb2e10[31m [37mtest: ensure SignUpController returns an error if no name is provided - [36mEduardo Marques Balbo, [32m2 days ago
+[34m326f6a5[31m [37mfeat: ensure SignUpController returns an error if no name is provided - [36mEduardo Marques Balbo, [32m2 days ago
+[34m8c673a5[31m [37mfix: configuration for dependencies eslint-config-standard - [36mEduardo Marques Balbo, [32m2 days ago
+[34ma1210eb[31m [37mfeat: ensure SignUpController returns 400 if no name is provided - [36mEduardo Marques Balbo, [32m2 days ago
+[34m73cdb0c[31m [37mfix: jest configs for updated version - [36mEduardo Marques Balbo, [32m2 days ago
+[34m0cda993[31m [37mchore: update dependencies - [36mEduardo Marques Balbo, [32m2 days ago
+[34m1d74184[31m [37mchore: add jest to lint staged - [36mEduardo Marques Balbo, [32m2 days ago
+[34mef21bd6[31m [37mchore: add jest - [36mEduardo Marques Balbo, [32m2 days ago
+[34mdc01f52[31m [37mchore: add husky and lint staged - [36mEduardo Marques Balbo, [32m2 days ago
+[34m816ca75[31m [37mchore: add eslint - [36mEduardo Marques Balbo, [32m2 days ago
+[34m041a833[31m [37mchore: add typescript - [36mEduardo Marques Balbo, [32m2 days ago
+[34m583d58e[31m [37mchore: add commit linter - [36mEduardo Marques Balbo, [32m2 days ago
+[34m0366143[31m [37mchore: add npm - [36mEduardo Marques Balbo, [32m2 days ago
