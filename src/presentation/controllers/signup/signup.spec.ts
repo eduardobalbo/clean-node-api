@@ -37,6 +37,7 @@ const makeFakeResquest = (): HttpRequest => ({
     passwordConfirmation: 'any_password'
   }
 })
+
 interface SutTypes {
   sut: SignUpController
   emailValidatorStub: EmailValidator
