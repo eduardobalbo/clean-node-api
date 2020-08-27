@@ -1,4 +1,4 @@
-import { Validation } from './validation'
+import { Validation } from '../../protocols/validation'
 import { MissingParamError } from '../../errors'
 
 // recebe input especifico e valida se existe no corpo da requisicao
