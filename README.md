@@ -125,7 +125,7 @@ O objetivo do treinamento é mostrar como criar uma API com uma arquitetura bem 
 
 * Connect e Reconnect
 * Collections
-* InsertOne e InserMany
+* InsertOne e InsertMany
 * Find, FindOne e FindOneAndUpdate
 * DeleteMany
 * UpdateOne
