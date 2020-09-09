@@ -1,5 +1,6 @@
 node_modules
 dist
 coverage
+data
 clean-node-workspace.code-workspace
 globalConfig.json
