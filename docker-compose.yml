@@ -1,0 +1,22 @@
+version: "3"
+services: 
+  mongo:
+    container_name: mongo-container
+    image: mongo:3
+    restart: always
+    volumes: #array em yml é representado desta forma, com traços
+      - ./data: /data/db
+    ports:
+      - "27017:27017" #porta default mongoDb
+  api:
+    container_name: api-container
+    build: .
+    image: clean-node-api #nome
+    restart: always
+    command: npm start
+    volumes: 
+      - ./dist: /usr/src/clean-node-api/dist
+    ports:
+      - "5050:5050"
+    links: 
+      - mongo
