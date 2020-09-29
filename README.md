@@ -1,6 +1,6 @@
 # **Clean Node API**
 
-Essa API faz parte do treinamento do professor Rodrigo Manguinho (Mango) na Udemy.
+Essa API faz parte do treinamento que realizei do professor Rodrigo Manguinho (Mango) na Udemy, recomendo muito para desenvolvedores que querem se aprofundar em TDD, Clean Architecture e Design Patterns.
 
 ## [**Link para o curso completo**](https://www.udemy.com/course/tdd-com-mango/?referralCode=B53CE5CA2B9AFA5A6FA1)
 
