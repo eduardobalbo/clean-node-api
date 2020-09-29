@@ -1,5 +1,5 @@
-import { Validation } from '../../protocols/validation'
-import { InvalidParamError } from '../../errors'
+import { Validation } from '../../presentation/protocols'
+import { InvalidParamError } from '../../presentation/errors'
 
 // recebe input especifico e valida se existe no corpo da requisicao
 

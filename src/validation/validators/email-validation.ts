@@ -1,6 +1,6 @@
-import { Validation } from '../../protocols/validation'
-import { InvalidParamError } from '../../errors'
-import { EmailValidator } from '../../protocols/email-validator'
+import { Validation } from '../../presentation/protocols'
+import { InvalidParamError } from '../../presentation/errors'
+import { EmailValidator } from '../protocols/email-validator'
 
 // recebe input especifico e valida se existe no corpo da requisicao
 
